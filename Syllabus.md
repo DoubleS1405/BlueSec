@@ -1,4 +1,3 @@
-```markdown
 # BlueSec Syllabus
 
 ## Module 1: Security Operations(SecOps) Fundamentals
@@ -353,4 +352,3 @@
 - Activity - Continuous Compliance Monitoring with Splunk
 
 last modified date: 2023.08.27
-```
